@@ -1,0 +1,25 @@
+{
+    "title": "awesome graphviz",
+    "upload_type": "publication",
+    "publication_type": "workingpaper",
+    "description": "All about GraphViz Online Ressources",
+    "creators": [
+      {
+        "name": "Detlef Burkhardt",
+        "affiliation": "Independent Researcher"
+      }
+    ],
+    "access_right": "open",
+    "license": "CC-BY-4.0",
+    "keywords": ["dot", "GraphViz"],
+    "version": "2.4.1",
+    "language": "eng",
+    "related_identifiers": [],
+    "communities": [
+      {
+        "identifier": "open-science"
+      }
+    ],
+    "grants": []
+  }
+  
