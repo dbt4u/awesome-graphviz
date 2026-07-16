@@ -374,7 +374,7 @@ You're welcome to add new stuff or report glitches. See [contributing.md](contri
  
 ### Generators and Translators 
 #### Transform data sources and formats into Graphviz 
-- [ExcelToGraphviz1](https://sourceforge.net/projects/relationship-visualizer/) - Relationship Visualizer - Convert Excel data into Graphviz graphs *Jeff Long*.
+- [ExcelToGraphviz1](https://exceltographviz.com/) - Relationship Visualizer - Convert Excel data into Graphviz graphs *Jeff Long*.
 - [ExcelToGraphviz2](https://sourceforge.net/projects/excel-to-graphviz/) - a tool for visualizing Excel data as graphs *Matt Castelli*.
 - [Graph API](https://www.drupal.org/project/graphapi/) - a Drupal graph generation module with Graphviz Dot output capabilities. *Sebastian Daniel*.
 - [Linguine Maps](http://www.softwaresecretweapons.com/lm_hibernate.html) - visualize XML DTDs, Apache Object Relational Bridge Files, Apache Ant Build files, and provide a clean Java API for diagramming *Pavel Simakov*.
