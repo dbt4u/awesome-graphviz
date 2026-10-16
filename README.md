@@ -258,6 +258,7 @@ You're welcome to add new stuff or report glitches. See [contributing.md](contri
 #### Mac OS
 - [Instaviz](http://instaviz.com/) - Graph sketching for the iPhone using Graphviz libraries for rendering. *Glen Low* 
 - [Pixelglows](http://www.pixelglow.com/graphviz/) Document-based GUI for Mac OS X (won a 2004 award from Apple) *Glen Low* 
+- [Glim](https://github.com/NeoPanic/Glim) - Mac file viewer that renders DOT code fences in Markdown, with source access and basic text editing.
 
 #### Java
 - [idot](https://code.google.com/archive/p/idot) - Incremental Graphviz viewer (Java ≥ 1.5)
