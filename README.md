@@ -249,6 +249,7 @@ You're welcome to add new stuff or report glitches. See [contributing.md](contri
 - [Graphviz Preview](https://marketplace.visualstudio.com/items?itemName=EFanZh.graphviz-preview) - Inline Preview inside vs code editor *EFanZh*
 - [Eclipse Zest/DOT](http://wiki.eclipse.org/Zest/DOT) - an Eclipse Zest 2.0 component that can be used to render and edit DOT graphs *Fabian Steeg* 
 - [Graphvizzer](https://graphvizzer.objectivetruth.ca/) - Graph instantly in your Slack-Chat channel. [src](https://github.com/ObjectiveTruth/Graphvizzer)
+- [graphviz-preview-vscode](https://github.com/theluckystrike/graphviz-preview-vscode) - Live preview for .dot and .gv files in VS Code, with WebAssembly layouts, node search, click to source and SVG or PNG export. *Zovo*
 
 #### .NET / C#
 - [Graphviz4Net](https://archive.codeplex.com/?p=graphviz4net) provides Windows Presentation Foundation (WPF) control that is capable of rendering graph layouts using Graphviz. *Štěpán Šindelář* 
